@@ -1,0 +1,12 @@
+% Import any needed libraries
+% No libraries needed for this simple example
+
+% Main function
+function main()
+    % Print "Hello World" to the console
+    disp('Hello World');
+    
+    % Wait for user to press a key
+    pause;
+end
+
